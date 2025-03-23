@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: rgb(190, 157, 190);
+}
+
+button {
+    background-color: bisque;
+    border-radius: 2rem;
+    color: rgb(215, 54, 156);
+}
+
+footer {
+    margin-top: 1.5rem;
+    background-color: aliceblue;
+    border-radius: 100rem;
+    padding: auto;
+}
